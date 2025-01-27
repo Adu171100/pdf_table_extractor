@@ -13,12 +13,6 @@ This project extracts SKU information from PDFs with product price lists and out
   - `pdfplumber`
   - `json`
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your_username/pdf_sku_extractor.git
-
-
 
 
 
